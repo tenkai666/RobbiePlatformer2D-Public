@@ -40,9 +40,11 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 1
       enableTightPacking: 0
+    secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: b97a1e2feca4cb845be3764e9c4af271, type: 3}
+    totalSpriteSurfaceArea: 55249
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -69,5 +71,6 @@ SpriteAtlas:
   - Plant3
   - Gate
   - Plant4
+  m_RenderDataMap: {}
   m_Tag: Shadows
   m_IsVariant: 0
