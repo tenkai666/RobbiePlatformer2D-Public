@@ -14,14 +14,14 @@ https://github.com/Unity-Technologies/2d-extras
 My special thanks go to M-Studio  
 https://m-studio-m.github.io  
   
-Unity m_EditorVersion:  2020.2.3f1  
+Unity m_EditorVersion:  2020.2.5f1  
   
-Keyboard  
+KEYBOARD  
   
-Left: a or left  
-Right: d or right  
-Small Jump: space  
-Middle Jump: hold space  
-Big Jump: s + space  
-Crouch: s   
+LEFT: a or left  
+RIGHT: d or right  
+SMALL JUMP: space  
+MIDDLE JUMP: hold space  
+BIG JUMP: s + space  
+CROUCH: s   
   
